@@ -76,3 +76,14 @@ myFunction();
 // console.log(blockLet);
 // console.log(blockConst);
 
+//  Coding Time
+
+let name = "Vigesh";
+let WhatDoYouWannaBecomeInYourLife = "Full Stack Developer";
+let gender = "Male"
+let twitterHandle = "@vigesh_viki";
+
+console.log(`Name: ${name}`);
+console.log(`WhatDoYouWannaBecomeInYourLife: ${WhatDoYouWannaBecomeInYourLife}`);
+console.log(`gender: ${gender}`);
+console.log(`twitterHandle: ${twitterHandle}`);
