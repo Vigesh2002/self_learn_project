@@ -1,94 +1,94 @@
-// // JavaScript Comparison Operators
+// JavaScript Comparison Operators
 
-// // Equality Operator (==)
+// Equality Operator (==)
 
-// let x = 5;
-// let y = "5";
+let x = 5;
+let y = "5";
 
-// console.log(x == 5);
-// console.log(y == 5);
-// console.log(x == y);
-// console.log(NaN == NaN);
-// console.log(0 == false);
-// console.log(0 == null);
+console.log(x == 5);
+console.log(y == 5);
+console.log(x == y);
+console.log(NaN == NaN);
+console.log(0 == false);
+console.log(0 == null);
 
-// // Inequality Operator (!=)
+// Inequality Operator (!=)
 
-// let a = 5;
-// let b = "5";
+let a = 5;
+let b = "5";
 
-// console.log(x != 6);
-// console.log(y != 6);
-// console.log(x != 5);
-// console.log(x != y);
-// console.log(x != 6);
-// console.log(NaN != NaN);
-// console.log(0 != false);
-// console.log(0 != null);
+console.log(x != 6);
+console.log(y != 6);
+console.log(x != 5);
+console.log(x != y);
+console.log(x != 6);
+console.log(NaN != NaN);
+console.log(0 != false);
+console.log(0 != null);
 
-// // Strict Equality Operator (===)
+// Strict Equality Operator (===)
 
-// let c = 5;
-// let d = "5";
+let c = 5;
+let d = "5";
 
-// console.log(c === 6);
-// console.log(d === "5");
-// console.log(c === d);
-// console.log(NaN === NaN);
-// console.log(0 === false);
-// console.log(0 === null);
+console.log(c === 6);
+console.log(d === "5");
+console.log(c === d);
+console.log(NaN === NaN);
+console.log(0 === false);
+console.log(0 === null);
 
-// // Strict Inequality Operator (!==)
+// Strict Inequality Operator (!==)
 
-// let e = 5;
-// let f = "5";
+let e = 5;
+let f = "5";
 
-// console.log(c !== 6);
-// console.log(d !== "5");
-// console.log(c !== d);
-// console.log(NaN !== NaN);
-// console.log(0 !== false);
-// console.log(0 !== null);
+console.log(c !== 6);
+console.log(d !== "5");
+console.log(c !== d);
+console.log(NaN !== NaN);
+console.log(0 !== false);
+console.log(0 !== null);
 
-// // Greater Than Operator (>)
+// Greater Than Operator (>)
 
-// let g = 5;
-// let h = 6;
+let g = 5;
+let h = 6;
 
-// console.log(g > 6);
-// console.log(h > "5");
-// console.log(g > "15");
-// console.log(g > h);
+console.log(g > 6);
+console.log(h > "5");
+console.log(g > "15");
+console.log(g > h);
 
-// // Greater Than or Equal Operator (>=)
+// Greater Than or Equal Operator (>=)
 
-// let i = 5;
-// let j = 6;
+let i = 5;
+let j = 6;
 
-// console.log(i >= 6);
-// console.log(j >= "15");
-// console.log(i >= "5");
-// console.log(i >= j);
+console.log(i >= 6);
+console.log(j >= "15");
+console.log(i >= "5");
+console.log(i >= j);
 
-// // Less Than Operator (<)
+// Less Than Operator (<)
 
-// let k = 5;
-// let l = 6;
+let k = 5;
+let l = 6;
 
-// console.log(k < 6);
-// console.log(l < "5");
-// console.log(k < "15");
-// console.log(k < l);
+console.log(k < 6);
+console.log(l < "5");
+console.log(k < "15");
+console.log(k < l);
 
-// // Less Than or Equal Operator (<=)
+// Less Than or Equal Operator (<=)
 
-// let m = 5;
-// let n = 6;
+let m = 5;
+let n = 6;
 
-// console.log(m <= 6);
-// console.log(n <= "15");
-// console.log(m <= "5");
-// console.log(m <= n);
+console.log(m <= 6);
+console.log(n <= "15");
+console.log(m <= "5");
+console.log(m <= n);
 
 // Coding Time
 
